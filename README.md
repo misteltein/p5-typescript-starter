@@ -1,5 +1,9 @@
 # p5-typescript-starter
 
+## 準備
+
+- Node.js をインストールする https://nodejs.org/ja/
+
 ## インストール
 
 クローンを
