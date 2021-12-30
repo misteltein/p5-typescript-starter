@@ -2,7 +2,8 @@
 
 ## 準備
 
-- Node.js をインストールする https://nodejs.org/ja/
+- Node.js
+- git 
 
 ## インストール
 
